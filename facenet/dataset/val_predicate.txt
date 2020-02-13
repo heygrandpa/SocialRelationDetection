@@ -1,0 +1,16 @@
+granddaughter: 30
+sister: 321
+niece: 158
+mother: 79
+friend: 50
+wife: 138
+aunt: 31
+uncle: 1
+brother: 12
+grandmother: 6
+servant: 12
+daughter: 7
+husband: 35
+employer: 17
+son: 11
+nephew: 2

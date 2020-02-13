@@ -1,0 +1,16 @@
+employer: 2
+sister: 4
+brother: 3
+mother: 2
+nephew: 1
+son: 1
+granddaughter: 1
+niece: 1
+servant: 2
+husband: 1
+wife: 1
+daughter: 1
+aunt: 1
+grandmother: 1
+friend: 1
+uncle: 1
